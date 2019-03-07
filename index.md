@@ -1,4 +1,4 @@
 ## MyFirst Files
 
-[help](docs/index)
+[help](docs/help)
 
