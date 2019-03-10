@@ -27,7 +27,7 @@ val response = okHttpClient.newCall(request).execute()
 
 ## Volley
 
-60Volley Retrofit android-async-http帮你封装了具体的请求，县城切换壹基金数据转化
+Volley Retrofit android-async-http帮你封装了具体的请求，线程切换以及数据转化。
 
 而 Okhttp是基于http协议封装的一套请求客户端，虽然它也可以开线程，但根本上它更偏向真正的请求，跟HttpClient
 
@@ -44,3 +44,5 @@ val response = okHttpClient.newCall(request).execute()
 Retrofit是一个网络框架，底层使用Okhttp完成网络请求的发起，其主要职责是提供一个高度解耦的网络框架。
 
 ![Retrofit设计架构](https://blog.piasy.com/img/201606/retrofit_stay.png)
+
+[参考](https://www.jianshu.com/p/45cb536be2f4)
