@@ -430,5 +430,11 @@ applicationDistribution.from(copyLicense) {
 这篇教程教会了我们三部分内容：
 
 1. 一个多项目构建必须在根项目的根目录下包含`settings.gradle`文件，因为它指明了那些包含在多项目构建中的项目。
+
 2. 如果需要在多项目构建的所有项目中加入公用的配置或行为，我们可以将这项配置加入到根项目的build.gradle文件中(使用`allprojects`)。
+
 3. 如果需要在根项目的子项目中加入公用的配置或行为，我们可以将这项配置加入到根项目的build.gradle文件中(使用`subprojects`)。
+
+   [参考](http://blog.jobbole.com/84471/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
+
+   
