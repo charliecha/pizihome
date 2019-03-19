@@ -14,3 +14,38 @@ AOP 三剑客
 
 ## APT
 
+APT英文全称：Android annotation process tool是一种处理注解的工具，它对源代码文件进行检测找出其中的Annotation，使用Annotation进行额外的处理。
+Annotation处理器在处理Annotation时可以根据源文件中的Annotation生成额外的源文件和其它的文件（文件具体内容由Annotation处理器的编写者决定），APT还会编译生成源文件和原来的源文件，将它们一起生成class文件。简言之：APT可以把注解，在编译时生成代码。
+
+
+
+## AspectJ
+
+AspectJ是一个面向切面的框架，它扩展了Java语言。AspectJ定义了AOP语法，所以它有一个专门的[编译器](https://baike.baidu.com/item/%E7%BC%96%E8%AF%91%E5%99%A8/8853067)用来生成遵守Java字节编码规范的Class文件。
+
+代表框架： Hugo(Jake Wharton)
+
+AspectJ支持编译期和加载时代码注入，在开始之前，我们先看看需要了解的词汇：
+ **Advice（通知）:** 典型的 Advice 类型有 before、after 和 around，分别表示在目标方法执行之前、执行后和完全替代目标方法执行的代码。
+
+**Joint point（连接点）:** 程序中可能作为代码注入目标的特定的点和入口。
+
+**Pointcut（切入点）:** 告诉代码注入工具，在何处注入一段特定代码的表达式。
+
+**Aspect（切面）:** Pointcut 和 Advice 的组合看做切面。
+
+**Weaving（织入）:** 注入代码（advices）到目标位置（joint points）的过程。
+
+下面这张图简要总结了一下上述这些概念。
+
+![image-20190319232242121](https://ws3.sinaimg.cn/large/006tKfTcly1g18irb9tvxj313e0os40f.jpg)
+
+
+
+## JavaAssist/ASM
+
+字节码操作工具
+
+# Javapoet
+
+java 源文件生成工具
