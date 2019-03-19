@@ -52,5 +52,9 @@
 
 ### 脑图
 
+gradle
+
+https://blog.csdn.net/singwhatiwanna/article/details/78797506
+
 
 
