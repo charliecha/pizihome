@@ -46,3 +46,5 @@ Retrofit是一个网络框架，底层使用Okhttp完成网络请求的发起，
 ![Retrofit设计架构](https://blog.piasy.com/img/201606/retrofit_stay.png)
 
 [参考](https://www.jianshu.com/p/45cb536be2f4)
+
+[Demo](https://github.com/charliecha/OpenSourceDemo)
