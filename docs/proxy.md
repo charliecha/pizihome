@@ -197,5 +197,9 @@ public final class $Proxy extends Proxy implements UserMapper {
 
 [JDK动态代理之ProxyGenerator生成代理类的字节码文件解析](https://www.jb51.net/article/135597.htm)
 
+Class 文件格式参考
+
+[《Java虚拟机规范》阅读（三）:Class文件格式](<http://www.cnblogs.com/zhuYears/archive/2012/02/07/2340347.html>)
+
 [源代码获取](https://github.com/charliecha/AopDemo)
 
