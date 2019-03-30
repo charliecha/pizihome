@@ -8,7 +8,7 @@ Okhttp Retrofit Volley
 
 [AOP](docs/aop)
 
-[动态代理](docs/network)
+[动态代理](docs/proxy)
 
 APT Aspectj(Hugo) JavaAssist/ASM 
 
