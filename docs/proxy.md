@@ -26,9 +26,7 @@ ProxyGenerator.apply()方法负责根据传入包名，接口集合以及访问�
 
 ProxyClassFactory .generateProxyClass()方法负责计算生成之类包名，类名等信息，并负责加载ProxyGenerator生成的字节码，获得 Class 对象；
 
-Proxy.newProxyInstance()方法负责调用ProxyGenerator.apply()获得代理类，并反射调用代理类的构造方法，来
-
-构造一个代理类的实例。
+Proxy.newProxyInstance()方法负责调用ProxyGenerator.apply()获得代理类，并反射调用代理类的构造方法，来构造一个代理类的实例。
 
 ## 一个例子：
 
