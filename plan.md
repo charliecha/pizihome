@@ -58,7 +58,21 @@ ARouter
 
 gradle
 
+Tcp/ip
+
+Socket/Websocket
+
+线程池 线程复用
+
+asm
+
 https://blog.csdn.net/singwhatiwanna/article/details/78797506
+
+资源：
+
+美团技术团队 https://tech.meituan.com/2019/02/28/java-dynamic-trace.html
+
+
 
 
 
