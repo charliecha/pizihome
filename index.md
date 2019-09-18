@@ -1,20 +1,40 @@
-# 已学习内容
+# Plan
 
-## 开源库整理
+## OpenSource
 
-### [网络库](docs/network)
-
-Okhttp Retrofit Volley
+[Network](docs/network)
 
 [AOP](docs/aop)
 
-[动态代理](docs/proxy)
+[Proxy](docs/proxy)
 
-APT Aspectj(Hugo) JavaAssist/ASM 
+## Languages
 
-## 工具类整理
+Kotlin
+
+Flutter
+
+Dart
+
+Go
+
+7days
+
+## Architecture
+
+Clean Architecture
+
+Pattern-Oriented Software Architecture
+
+## Tools
 
 ### [Gradle](docs/gradle)
 
-待补充
+
+
+
+
+
+
+To continue...
 
