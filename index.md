@@ -16,6 +16,8 @@ Flutter
 
 [Dart](docs/dart)
 
+[Python](docs/python)
+
 Go
 
 7days
