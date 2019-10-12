@@ -6,3 +6,8 @@
 
 PYTHON网络爬虫从入门到实践
 
+机器学习入门
+
+https://www.zhihu.com/question/59692025
+
+http://www.tensorfly.cn/
