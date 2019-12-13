@@ -438,3 +438,9 @@ applicationDistribution.from(copyLicense) {
    [参考](http://blog.jobbole.com/84471/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
 
    
+   
+   Gradle教程：
+   
+    https://www.cnblogs.com/davenkin/p/gradle-learning-1.html 
+   
+   
