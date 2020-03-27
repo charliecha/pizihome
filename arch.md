@@ -22,3 +22,9 @@ https://www.kotlincn.net/docs/tutorials/
 
 https://juejin.im/post/5b3a3a44f265da630e27a7e6
 
+
+
+**使用Kotlin构建MVVM应用程序**
+
+https://xiaozhuanlan.com/topic/7590648312
+
