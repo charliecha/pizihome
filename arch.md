@@ -32,3 +32,5 @@ https://xiaozhuanlan.com/topic/7590648312
 
 https://zhuanlan.zhihu.com/p/53463525
 
+https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/
+
