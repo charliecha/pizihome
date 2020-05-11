@@ -16,6 +16,12 @@
 
 https://developer.android.com/jetpack/docs/guide?hl=zh-cn#common-principles
 
+
+
+https://github.com/hehonghui/android-tech-frontier/tree/master/software-architecture-patterns
+
+
+
 ### https://zhuanlan.zhihu.com/p/33206893
 
 https://www.kotlincn.net/docs/tutorials/
@@ -33,4 +39,10 @@ https://xiaozhuanlan.com/topic/7590648312
 https://zhuanlan.zhihu.com/p/53463525
 
 https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/
+
+
+
+https://www.cnblogs.com/IcanFixIt/p/7518146.html
+
+
 
