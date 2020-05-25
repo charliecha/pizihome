@@ -46,3 +46,33 @@ https://www.cnblogs.com/IcanFixIt/p/7518146.html
 
 
 
+模块化
+
+Android 模块化探索与实践
+
+https://github.com/BaronZ88/MinimalistWeather
+
+# Modularization in Android: architecture point of view. From A to Z. Part II
+
+https://proandroiddev.com/modularization-in-android-architecture-point-of-view-from-a-to-z-part-i-7a86e6e03799
+
+# Modularization in Android: architecture point of view. From A to Z. Part I
+
+https://proandroiddev.com/modularization-in-android-architecture-point-of-view-from-a-to-z-part-ii-8baea5b2e4fd
+
+clean:
+
+# Android Architecture: Part 1 – Every New Beginning is Hard
+
+https://five.agency/android-architecture-part-1-every-new-beginning-is-hard/
+
+# Clean Architecture Tutorial for Android: Getting Started
+
+https://www.raywenderlich.com/3595916-clean-architecture-tutorial-for-android-getting-started#toc-anchor-004
+
+
+
+高级Android知识
+
+https://proandroiddev.com/
+
