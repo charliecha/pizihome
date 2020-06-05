@@ -14,6 +14,12 @@
 
 
 
+DI
+
+https://developer.android.com/training/dependency-injection/manual
+
+
+
 https://developer.android.com/jetpack/docs/guide?hl=zh-cn#common-principles
 
 
